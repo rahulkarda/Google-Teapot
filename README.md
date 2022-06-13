@@ -7,7 +7,7 @@ RFC 2324, Hyper Text Coffee Pot Control Protocol, and is not expected to be impl
 servers.
 
 <a target="_blank" href="https://googleteapot.netlify.app/">
-          <img src="" width="100%" alt="Google Teapot"/>
+          <img src="https://github.com/rahulkarda/Google-Teapot/blob/master/images/googleteapot.jpg?raw=true" width="100%" alt="Google Teapot Page Screenshot"/>
 </a>
 
 ## Features
