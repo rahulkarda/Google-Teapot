@@ -44,8 +44,11 @@ footer a:hover{
 }
 @media screen and (max-width: 900px){
     #desc{
-        bottom: 25vh;
-        width: 75%;
+        bottom: 15vh;
+        width: 95%;
+    }
+    body{
+        padding: 15px 0 10px;
     }
 }
 
