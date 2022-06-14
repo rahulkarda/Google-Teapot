@@ -329,8 +329,15 @@ p+p ins {
     #desc{
         bottom: 15vh;
         width: 96%;
+        font-size: 15px;
     }
     html>body{
-        padding: 10px 0 10px;
+        padding: 5px 0 10px;
     }
+}
+@media screen and (max-height: 500px) {
+    #desc,footer{
+        display: none;
+    }
+
 }
