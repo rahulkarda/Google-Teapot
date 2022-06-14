@@ -330,7 +330,7 @@ p+p ins {
         bottom: 15vh;
         width: 96%;
     }
-    body{
+    html>body{
         padding: 15px 0 10px;
     }
 }
